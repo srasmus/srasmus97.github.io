@@ -2,37 +2,23 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: desc
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: A place for my ramblings, opinions, and other nonsense.
 
-  - title: all posts
+  - title: latest posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: archive...
       show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
 
   - title: rss
     url: feed.xml
   
-  - title: another list
+  - title: contact
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: "email: <a href='talk@srasmus.com'>talk@srasmus.com</a>"
+      - title: "github: <a href='https://github.com/srasmus97'>srasmus97</a>"
+      - title: "reddit: <a href='https://www.reddit.com/user/srasmus97'>u/srasmus97</a>"
+      - title: "twitter: <a href='https://twitter.com/SamIArent'>@SamIArent</a>"
