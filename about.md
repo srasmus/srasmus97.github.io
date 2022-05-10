@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![me](assets/images/me.png){width:50%}
+![me](assets/images/me.png){:.width:50%}
 
 This is an example page!
 
