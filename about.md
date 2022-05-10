@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![me](assets/images/me.png){:.ioda}
+![me](assets/images/me.png)
 
 This is an example page!
 
