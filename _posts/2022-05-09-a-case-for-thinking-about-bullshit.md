@@ -3,7 +3,8 @@ layout: post
 category: example
 ---
 
-![paranormal investigator](..\assets\images\paranormalinvestigator.jpg){:.half}<div class="caption">The gang's all here</div>
+![paranormal investigator](..\assets\images\paranormalinvestigator.jpg){:height="auto" width="60%"}
+:The gang's all here[^1]
 
 
 ---
