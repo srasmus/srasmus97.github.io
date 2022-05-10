@@ -3,7 +3,7 @@ layout: post
 category: example
 ---
 
-![paranormal investigator](..\assets\images\paranormalinvestigator.jpg)_The gang's all here[^1]_{:height="auto" width="60%"}
+![paranormal investigator](..\assets\images\paranormalinvestigator.jpg){:height="auto" width="60%"} <p class="post-meta">_The gang's all here[^1]_
 
 TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest
 
