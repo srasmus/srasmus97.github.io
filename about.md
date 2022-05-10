@@ -5,6 +5,4 @@ title: About
 
 ![me](assets/images/me.png){:.half}
 
-This is an example page!
-
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+Hey, I'm Sam Rasmussen. I was born in May of 1997 in Milwaukee, Wisconsin. 
