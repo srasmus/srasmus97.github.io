@@ -4,7 +4,7 @@ category: example
 ---
 
 ![paranormal investigator](..\assets\images\paranormalinvestigator.jpg){:height="auto" width="60%"}
-:The gang's all here[^1]
+<div>The gang's all here[^1]</div>
 
 
 ---
