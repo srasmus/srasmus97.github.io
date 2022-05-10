@@ -5,6 +5,8 @@ entries:
   - title: desc
     entries:
       - title: A place for my ramblings, opinions, and other nonsense.
+      - title: about me
+        url: about.html
 
   - title: latest posts
     post_list:
