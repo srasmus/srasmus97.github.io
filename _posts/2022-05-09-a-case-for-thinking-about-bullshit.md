@@ -3,7 +3,7 @@ layout: post
 category: example
 ---
 
-![paranormal investigator](..\assets\images\paranormalinvestigator.jpg){:.threeq}The gang's all here[^1]{:.caption}
+![paranormal investigator](..\assets\images\paranormalinvestigator.jpg){:.half}(The gang's all here[^1]){:.caption}![caption](The gang's all here[^1]){:.caption}
 
 
 ---
