@@ -3,8 +3,7 @@ layout: post
 category: example
 ---
 
-![paranormal investigator](..\assets\images\paranormalinvestigator.jpg){:.half}
-###### I wish I could hang out here[^1]
+![paranormal investigator](..\assets\images\paranormalinvestigator.jpg){:.half}###### *The gang's all here*[^1]
 
 
 ---
