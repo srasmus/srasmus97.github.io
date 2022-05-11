@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![me](assets/images/me.png){:height="auto" width="60%"}
+![me](assets/images/about/me.png){:height="auto" width="60%"}
 
 Hey, I'm Sam Rasmussen. I was born in 1997 in Milwaukee, Wisconsin. I grew up in Bayview, a small neighborhood just south of town. I spent most of my days drawing, reading, and playing my hand-me-down Super Nintendo. I've always had a fascination with technology, nature, and anything creepy or strange. Once I got to college, I majored in Computer Science and got my bachelor's of science in 2019. Since then, I've moved to Greenfield, only about 15 minutes from my childhood neighborhood.
 
