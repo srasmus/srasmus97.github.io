@@ -11,4 +11,4 @@ I made this site as a way to document some of my ideas and projects in a permane
 
 Thanks for stopping by,
 
-![logo](../logo.png){:.ioda height="auto" width="5%"}
+![logo](../logo.png){:.ioda height="auto" width="7%"}
